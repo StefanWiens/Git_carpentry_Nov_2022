@@ -1,0 +1,147 @@
+---
+title: "Git and GitHub Carpentry"
+subtitle: "Nov 6th, 2022"
+date: "`r Sys.Date()`"
+author: "Stefan Wiens & Thomas Lind"
+format:
+  revealjs: 
+    incremental: true
+    theme: solarized
+    preview-links: true
+    chalkboard: true
+editor: visual
+bibliography: references.bib
+---
+
+## Instructors
+
+-   [Stefan Wiens](https://www.su.se/profiles/swiens-1.184142): Naive user of all things helpful to Open Science
+
+-   [Thomas Lind](https://www.kth.se/profile/tholind?l=en): System developer at KTH
+
+::: notes
+Thomas and Stefan say a few words about themselves and how they use Git/GitHub
+:::
+
+## Git and Github
+
+-   [Git](https://git-scm.com/)
+    -   programming language
+    -   local version control
+-   [GitHub](https://github.com/)
+    -   server service (not a language like Git)
+    -   share versions online with collaborators
+
+## Course overview
+
+-   Introduction to Git and GitHub
+-   Material for the Git part of the [Carpentries workshop](https://kth-biblioteket.github.io/2022-11-07-StockholmTrio/)
+-   Most of the material from the official Carpentries workshop [Version control with git](https://swcarpentry.github.io/git-novice/)
+
+## Our philosophy
+
+- Using a single source ([Version control with git](https://swcarpentry.github.io/git-novice/)) makes it easy for you to revisit the material
+-   Course covers basics and terminal commands
+-   Learning commands is tedious, but once you know them, you can 'speak Git'
+- You do not have to know everything. Pick up commands as you need them
+
+::: notes
+:::
+
+## Helpful links
+
+-   [Carpentries: Version control with git](https://swcarpentry.github.io/git-novice/)
+-   [Datacamp Git cheat sheet](https://www.datacamp.com/cheat-sheet/git-cheat-sheet)
+
+::: notes
+Thomas: feel free to add more
+:::
+
+## [Automated version control](https://swcarpentry.github.io/git-novice/01-basics/index.html)
+
+-   Keep track of what you did and when
+-   Allows unlimited undos
+-   Allows collaborators to work in parallel
+-   Better to have smaller files that can be worked on separately
+-   Do you have any version control now?
+
+::: notes
+Last point involves the audience. Pros and cons of what they use now.
+:::
+
+## Features of good version control
+
+-   What can a good version control do?
+
+::: notes
+It is useful to get the audience to think about what features would be useful. We could collect suggestions on the board.
+:::
+
+## Git functionality (1)
+
+- On local computer
+-   Not everything is tracked!
+    -   command Git what to do when
+- Start tracking a local folder (repository) 
+  - `git init`
+- Check status of repo 
+  - `git status`
+  
+  
+## Git functionality (2)
+
+- Decide what files to add to a snapshot (staging area) 
+  - `git add`
+- Decide to save the snapshot in the repo 
+  - `git commit`
+
+::: notes
+Instead of diving directly into all parts, let's students get a feel for what kind of functionality is useful. If we already mention the git commands, it will be easier for students to follow the details. Actually, I am thinking about demonstrating the basic features with visual aids.
+:::
+
+
+## Git functionality (3)
+
+- Show repo history
+  - `git log`
+- Compare two commits
+  - `git diff`
+- Recover old version
+  - `git checkout`
+- Ignore files
+  - `.gitignore`
+
+
+## GitHub functionality
+
+- Create remote repository online
+- make local copy of remote 
+  - `git clone`
+- Push to remote from local
+  - `git push`
+- Pull from remote to local
+  - `git pull`
+- Make a new branch
+  - `git branch`
+
+
+## Course steps (main)
+
+::: {style="font-size: 0.8em"}
+-   [Setting up Git](https://swcarpentry.github.io/git-novice/02-setup/index.html)
+-   [Creating a repository](https://swcarpentry.github.io/git-novice/03-create/index.html)
+-   [Tracking changes](https://swcarpentry.github.io/git-novice/04-changes/index.html)
+-   [Exploring history](https://swcarpentry.github.io/git-novice/05-history/index.html)
+-   [Ignoring things](https://swcarpentry.github.io/git-novice/06-ignore/index.html)
+-   [Remotes in GitHub](https://swcarpentry.github.io/git-novice/07-github/index.html)
+-   [Collaborating](https://swcarpentry.github.io/git-novice/08-collab/index.html)
+-   [Conflicts](https://swcarpentry.github.io/git-novice/09-conflict/index.html)
+-   [Using Git from RStudio](https://swcarpentry.github.io/git-novice/14-supplemental-rstudio/index.html)
+:::
+
+## Skipped steps
+
+-   [Open science](https://swcarpentry.github.io/git-novice/10-open/index.html)
+-   [Licensing](https://swcarpentry.github.io/git-novice/11-licensing/index.html)
+-   [Citation](https://swcarpentry.github.io/git-novice/12-citation/index.html)
+-   [Hosting](https://swcarpentry.github.io/git-novice/13-hosting/index.html)

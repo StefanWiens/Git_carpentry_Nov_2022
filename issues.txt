@@ -1,0 +1,15 @@
+I know how to add notes i quarto. I can see them in the visual editor in RStudio, but not when I render the file.
+
+==========================
+
+# when I start a new repo in RStudio, it is not shown in RStudio even though it exists (in Explorer). When I run "git status"" in git bash, I get this error message. I have to run the suggested command and then restart RStudio for git to be recognized.
+
+git status
+fatal: unsafe repository ('C:/Users/SWIENS/Box/Rcarpentry/Git_carpentry_Nov2022' is owned by someone else)
+To add an exception for this directory, call:
+
+  git config --global --add safe.directory C:/Users/SWIENS/Box/Rcarpentry/Git_carpentry_Nov2022
+        
+        
+        
+        
