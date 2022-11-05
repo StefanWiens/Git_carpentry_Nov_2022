@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "Git_carpentry_Nov2022.html#instructors",
+    "href": "Git_carpentry_Nov2022.html#instructors",
+    "title": "Git and GitHub Carpentry",
+    "section": "Instructors",
+    "text": "Instructors\n\nStefan Wiens: Naive user of all things helpful to Open Science\nThomas Lind: System developer at KTH\n\n\nThomas and Stefan say a few words about themselves and how they use Git/GitHub"
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#git-and-github",
+    "href": "Git_carpentry_Nov2022.html#git-and-github",
+    "title": "Git and GitHub Carpentry",
+    "section": "Git and Github",
+    "text": "Git and Github\n\nGit\n\nprogramming language\nlocal version control\n\nGitHub\n\nserver service (not a language like Git)\nshare versions online with collaborators"
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#course-overview",
+    "href": "Git_carpentry_Nov2022.html#course-overview",
+    "title": "Git and GitHub Carpentry",
+    "section": "Course overview",
+    "text": "Course overview\n\nIntroduction to Git and GitHub\nMaterial for the Git part of the Carpentries workshop\nMost of the material from the official Carpentries workshop Version control with git"
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#our-philosophy",
+    "href": "Git_carpentry_Nov2022.html#our-philosophy",
+    "title": "Git and GitHub Carpentry",
+    "section": "Our philosophy",
+    "text": "Our philosophy\n\nUsing a single source (Version control with git) makes it easy for you to revisit the material\nCourse covers basics and terminal commands\nLearning commands is tedious, but once you know them, you can ‘speak Git’\nYou do not have to know everything. Pick up commands as you need them"
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#helpful-links",
+    "href": "Git_carpentry_Nov2022.html#helpful-links",
+    "title": "Git and GitHub Carpentry",
+    "section": "Helpful links",
+    "text": "Helpful links\n\nCarpentries: Version control with git\nDatacamp Git cheat sheet\n\n\nThomas: feel free to add more"
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#automated-version-control",
+    "href": "Git_carpentry_Nov2022.html#automated-version-control",
+    "title": "Git and GitHub Carpentry",
+    "section": "Automated version control",
+    "text": "Automated version control\n\nKeep track of what you did and when\nAllows unlimited undos\nAllows collaborators to work in parallel\nBetter to have smaller files that can be worked on separately\nDo you have any version control now?\n\n\nLast point involves the audience. Pros and cons of what they use now."
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#features-of-good-version-control",
+    "href": "Git_carpentry_Nov2022.html#features-of-good-version-control",
+    "title": "Git and GitHub Carpentry",
+    "section": "Features of good version control",
+    "text": "Features of good version control\n\nWhat can a good version control do?\n\n\nIt is useful to get the audience to think about what features would be useful. We could collect suggestions on the board."
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#git-functionality-1",
+    "href": "Git_carpentry_Nov2022.html#git-functionality-1",
+    "title": "Git and GitHub Carpentry",
+    "section": "Git functionality (1)",
+    "text": "Git functionality (1)\n\nOn local computer\nNot everything is tracked!\n\ncommand Git what to do when\n\nStart tracking a local folder (repository)\n\ngit init\n\nCheck status of repo\n\ngit status"
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#git-functionality-2",
+    "href": "Git_carpentry_Nov2022.html#git-functionality-2",
+    "title": "Git and GitHub Carpentry",
+    "section": "Git functionality (2)",
+    "text": "Git functionality (2)\n\nDecide what files to add to a snapshot (staging area)\n\ngit add\n\nDecide to save the snapshot in the repo\n\ngit commit\n\n\n\nInstead of diving directly into all parts, let’s students get a feel for what kind of functionality is useful. If we already mention the git commands, it will be easier for students to follow the details. Actually, I am thinking about demonstrating the basic features with visual aids."
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#git-functionality-3",
+    "href": "Git_carpentry_Nov2022.html#git-functionality-3",
+    "title": "Git and GitHub Carpentry",
+    "section": "Git functionality (3)",
+    "text": "Git functionality (3)\n\nShow repo history\n\ngit log\n\nCompare two commits\n\ngit diff\n\nRecover old version\n\ngit checkout\n\nIgnore files\n\n.gitignore"
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#github-functionality",
+    "href": "Git_carpentry_Nov2022.html#github-functionality",
+    "title": "Git and GitHub Carpentry",
+    "section": "GitHub functionality",
+    "text": "GitHub functionality\n\nCreate remote repository online\nmake local copy of remote\n\ngit clone\n\nPush to remote from local\n\ngit push\n\nPull from remote to local\n\ngit pull\n\nMake a new branch\n\ngit branch"
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#course-steps-main",
+    "href": "Git_carpentry_Nov2022.html#course-steps-main",
+    "title": "Git and GitHub Carpentry",
+    "section": "Course steps (main)",
+    "text": "Course steps (main)\n\n\nSetting up Git\nCreating a repository\nTracking changes\nExploring history\nIgnoring things\nRemotes in GitHub\nCollaborating\nConflicts\nUsing Git from RStudio"
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#skipped-steps",
+    "href": "Git_carpentry_Nov2022.html#skipped-steps",
+    "title": "Git and GitHub Carpentry",
+    "section": "Skipped steps",
+    "text": "Skipped steps\n\nOpen science\nLicensing\nCitation\nHosting"
+  }
+]

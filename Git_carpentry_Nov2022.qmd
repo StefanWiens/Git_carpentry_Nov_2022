@@ -40,10 +40,10 @@ Thomas and Stefan say a few words about themselves and how they use Git/GitHub
 
 ## Our philosophy
 
-- Using a single source ([Version control with git](https://swcarpentry.github.io/git-novice/)) makes it easy for you to revisit the material
+-   Using a single source ([Version control with git](https://swcarpentry.github.io/git-novice/)) makes it easy for you to revisit the material
 -   Course covers basics and terminal commands
 -   Learning commands is tedious, but once you know them, you can 'speak Git'
-- You do not have to know everything. Pick up commands as you need them
+-   You do not have to know everything. Pick up commands as you need them
 
 ::: notes
 :::
@@ -79,51 +79,47 @@ It is useful to get the audience to think about what features would be useful. W
 
 ## Git functionality (1)
 
-- On local computer
+-   On local computer
 -   Not everything is tracked!
     -   command Git what to do when
-- Start tracking a local folder (repository) 
-  - `git init`
-- Check status of repo 
-  - `git status`
-  
-  
+-   Start tracking a local folder (repository)
+    -   `git init`
+-   Check status of repo
+    -   `git status`
+
 ## Git functionality (2)
 
-- Decide what files to add to a snapshot (staging area) 
-  - `git add`
-- Decide to save the snapshot in the repo 
-  - `git commit`
+-   Decide what files to add to a snapshot (staging area)
+    -   `git add`
+-   Decide to save the snapshot in the repo
+    -   `git commit`
 
 ::: notes
 Instead of diving directly into all parts, let's students get a feel for what kind of functionality is useful. If we already mention the git commands, it will be easier for students to follow the details. Actually, I am thinking about demonstrating the basic features with visual aids.
 :::
 
-
 ## Git functionality (3)
 
-- Show repo history
-  - `git log`
-- Compare two commits
-  - `git diff`
-- Recover old version
-  - `git checkout`
-- Ignore files
-  - `.gitignore`
-
+-   Show repo history
+    -   `git log`
+-   Compare two commits
+    -   `git diff`
+-   Recover old version
+    -   `git checkout`
+-   Ignore files
+    -   `.gitignore`
 
 ## GitHub functionality
 
-- Create remote repository online
-- make local copy of remote 
-  - `git clone`
-- Push to remote from local
-  - `git push`
-- Pull from remote to local
-  - `git pull`
-- Make a new branch
-  - `git branch`
-
+-   Create remote repository online
+-   make local copy of remote
+    -   `git clone`
+-   Push to remote from local
+    -   `git push`
+-   Pull from remote to local
+    -   `git pull`
+-   Make a new branch
+    -   `git branch`
 
 ## Course steps (main)
 

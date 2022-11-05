@@ -1,5 +1,8 @@
 project:
-  title: "Git_carpentry_Nov2022"
-
+  type: website
+  output-dir: docs
+theme:
+  light: flatly
+  dark: darkly
 editor: visual
 
