@@ -1,7 +1,7 @@
 # Git_carpentry_Nov_2022
 Git and GitHub course as part of Carpentry, Nov 6th, 2022
 
-[Weblink to project](https://stefanwiens.github.io/Git_carpentry_Nov_2022/)
+[Course slides](https://stefanwiens.github.io/Git_carpentry_Nov_2022/)
 
 Content
 
