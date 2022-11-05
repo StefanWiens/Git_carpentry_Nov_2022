@@ -25,11 +25,14 @@ Thomas and Stefan say a few words about themselves and how they use Git/GitHub
 
 ## Git and Github
 
+- version control
+  - track changes over time
+  - file content and metadata
 -   [Git](https://git-scm.com/)
     -   programming language
     -   local version control
 -   [GitHub](https://github.com/)
-    -   server service (not a language like Git)
+    -   online server service (not a language like Git)
     -   share versions online with collaborators
 
 ## Course overview
