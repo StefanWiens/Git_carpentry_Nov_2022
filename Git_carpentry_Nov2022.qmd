@@ -112,7 +112,7 @@ Instead of diving directly into all parts, let's students get a feel for what ki
 ## GitHub functionality
 
 -   Create remote repository online
--   make local copy of remote
+-   Make local copy of remote
     -   `git clone`
 -   Push to remote from local
     -   `git push`
@@ -137,7 +137,13 @@ Instead of diving directly into all parts, let's students get a feel for what ki
 
 ## Skipped steps
 
+::: {style="font-size: 0.8em"}
 -   [Open science](https://swcarpentry.github.io/git-novice/10-open/index.html)
 -   [Licensing](https://swcarpentry.github.io/git-novice/11-licensing/index.html)
 -   [Citation](https://swcarpentry.github.io/git-novice/12-citation/index.html)
 -   [Hosting](https://swcarpentry.github.io/git-novice/13-hosting/index.html)
+:::
+
+## Dive into Git/GitHub
+
+Let's go ...

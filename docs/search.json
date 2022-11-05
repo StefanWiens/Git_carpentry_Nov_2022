@@ -74,7 +74,7 @@
     "href": "Git_carpentry_Nov2022.html#github-functionality",
     "title": "Git and GitHub Carpentry",
     "section": "GitHub functionality",
-    "text": "GitHub functionality\n\nCreate remote repository online\nmake local copy of remote\n\ngit clone\n\nPush to remote from local\n\ngit push\n\nPull from remote to local\n\ngit pull\n\nMake a new branch\n\ngit branch"
+    "text": "GitHub functionality\n\nCreate remote repository online\nMake local copy of remote\n\ngit clone\n\nPush to remote from local\n\ngit push\n\nPull from remote to local\n\ngit pull\n\nMake a new branch\n\ngit branch"
   },
   {
     "objectID": "Git_carpentry_Nov2022.html#course-steps-main",
@@ -88,6 +88,13 @@
     "href": "Git_carpentry_Nov2022.html#skipped-steps",
     "title": "Git and GitHub Carpentry",
     "section": "Skipped steps",
-    "text": "Skipped steps\n\nOpen science\nLicensing\nCitation\nHosting"
+    "text": "Skipped steps\n\n\nOpen science\nLicensing\nCitation\nHosting"
+  },
+  {
+    "objectID": "Git_carpentry_Nov2022.html#dive-into-gitgithub",
+    "href": "Git_carpentry_Nov2022.html#dive-into-gitgithub",
+    "title": "Git and GitHub Carpentry",
+    "section": "Dive into Git/GitHub",
+    "text": "Dive into Git/GitHub\nLet’s go …"
   }
 ]
