@@ -70,11 +70,18 @@
     "text": "Git functionality (3)\n\nShow repo history\n\ngit log\n\nCompare two commits\n\ngit diff\n\nRecover old version\n\ngit checkout\n\nIgnore files\n\n.gitignore"
   },
   {
+    "objectID": "Git_carpentry_Nov2022.html#git-functionality-4",
+    "href": "Git_carpentry_Nov2022.html#git-functionality-4",
+    "title": "Git and GitHub Carpentry",
+    "section": "Git functionality (4)",
+    "text": "Git functionality (4)\n\nbranch = copy of project\nCreate branch\n\ngit branch\n\nSwitch branch\n\ngit checkout\n\nCompare branches\n\ngit diff\n\nMerge branches\n\ngit merge"
+  },
+  {
     "objectID": "Git_carpentry_Nov2022.html#github-functionality",
     "href": "Git_carpentry_Nov2022.html#github-functionality",
     "title": "Git and GitHub Carpentry",
     "section": "GitHub functionality",
-    "text": "GitHub functionality\n\nCreate remote repository online\nMake local copy of remote\n\ngit clone\n\nPush to remote from local\n\ngit push\n\nPull from remote to local\n\ngit pull\n\nMake a new branch\n\ngit branch"
+    "text": "GitHub functionality\n\nCreate remote repository online\nMake local copy of remote\n\ngit clone\n\nPush to remote\n\ngit push\n\nPull from remote\n\ngit pull"
   },
   {
     "objectID": "Git_carpentry_Nov2022.html#course-steps-main",
@@ -95,6 +102,6 @@
     "href": "Git_carpentry_Nov2022.html#dive-into-gitgithub",
     "title": "Git and GitHub Carpentry",
     "section": "Dive into Git/GitHub",
-    "text": "Dive into Git/GitHub\nLet’s go …"
+    "text": "Dive into Git/GitHub\nLet’s git …"
   }
 ]
