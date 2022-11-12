@@ -1,6 +1,6 @@
 ---
 title: "Git and GitHub Carpentry"
-subtitle: "Nov 6th, 2022"
+subtitle: "Nov 7th, 2022"
 date: "`r Sys.Date()`"
 author: "Stefan Wiens & Thomas Lind"
 format:
@@ -23,7 +23,6 @@ bibliography: references.bib
 Thomas and Stefan say a few words about themselves and how they use Git/GitHub
 :::
 
-
 ## Git and Github
 
 -   version control
@@ -36,13 +35,11 @@ Thomas and Stefan say a few words about themselves and how they use Git/GitHub
     -   online server service (not a language like Git)
     -   share versions online with collaborators
 
-
 ## Course overview
 
 -   Introduction to Git and GitHub
 -   Material for the Git part of the [Carpentries workshop](https://kth-biblioteket.github.io/2022-11-07-StockholmTrio/)
 -   Most of the material from the official Carpentries workshop [Version control with git](https://swcarpentry.github.io/git-novice/)
-
 
 ## Our philosophy
 
@@ -54,7 +51,6 @@ Thomas and Stefan say a few words about themselves and how they use Git/GitHub
 ::: notes
 :::
 
-
 ## Helpful links
 
 -   [Carpentries: Version control with git](https://swcarpentry.github.io/git-novice/)
@@ -63,7 +59,6 @@ Thomas and Stefan say a few words about themselves and how they use Git/GitHub
 ::: notes
 Thomas: feel free to add more
 :::
-
 
 ## [Automated version control](https://swcarpentry.github.io/git-novice/01-basics/index.html)
 
@@ -77,7 +72,6 @@ Thomas: feel free to add more
 Last point involves the audience. Pros and cons of what they use now.
 :::
 
-
 ## Features of good version control
 
 -   What can a good version control do?
@@ -85,7 +79,6 @@ Last point involves the audience. Pros and cons of what they use now.
 ::: notes
 It is useful to get the audience to think about what features would be useful. We could collect suggestions on the board.
 :::
-
 
 ## Git functionality (1)
 
@@ -96,7 +89,6 @@ It is useful to get the audience to think about what features would be useful. W
     -   `git init`
 -   Check status of repo
     -   `git status`
-
 
 ## Git functionality (2)
 
@@ -109,7 +101,6 @@ It is useful to get the audience to think about what features would be useful. W
 Instead of diving directly into all parts, let's students get a feel for what kind of functionality is useful. If we already mention the git commands, it will be easier for students to follow the details. Actually, I am thinking about demonstrating the basic features with visual aids.
 :::
 
-
 ## Git functionality (3)
 
 -   Show repo history
@@ -121,20 +112,18 @@ Instead of diving directly into all parts, let's students get a feel for what ki
 -   Ignore files
     -   `.gitignore`
 
-    
 ## Git functionality (4)
 
-- branch = copy of project
-- Create branch
-  - `git branch`
-- Switch branch
-  - `git checkout`
-- Compare branches
-  - `git diff`
-- Merge branches
-  - `git merge`
-    
-    
+-   branch = copy of project
+-   Create branch
+    -   `git branch`
+-   Switch branch
+    -   `git checkout`
+-   Compare branches
+    -   `git diff`
+-   Merge branches
+    -   `git merge`
+
 ## GitHub functionality
 
 -   Create remote repository online
@@ -144,7 +133,6 @@ Instead of diving directly into all parts, let's students get a feel for what ki
     -   `git push`
 -   Pull from remote
     -   `git pull`
-    
 
 ## Course steps (main)
 
@@ -160,7 +148,6 @@ Instead of diving directly into all parts, let's students get a feel for what ki
 -   [Using Git from RStudio](https://swcarpentry.github.io/git-novice/14-supplemental-rstudio/index.html)
 :::
 
-
 ## Skipped steps
 
 ::: {style="font-size: 0.8em"}
@@ -169,7 +156,6 @@ Instead of diving directly into all parts, let's students get a feel for what ki
 -   [Citation](https://swcarpentry.github.io/git-novice/12-citation/index.html)
 -   [Hosting](https://swcarpentry.github.io/git-novice/13-hosting/index.html)
 :::
-
 
 ## Dive into Git/GitHub
 
